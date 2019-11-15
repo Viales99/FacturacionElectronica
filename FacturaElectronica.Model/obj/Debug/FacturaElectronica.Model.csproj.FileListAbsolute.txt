@@ -1,0 +1,5 @@
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Model\bin\Debug\FacturaElectronica.Model.dll
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Model\bin\Debug\FacturaElectronica.Model.pdb
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Model\obj\Debug\FacturaElectronica.Model.csproj.CoreCompileInputs.cache
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Model\obj\Debug\FacturaElectronica.Model.dll
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Model\obj\Debug\FacturaElectronica.Model.pdb

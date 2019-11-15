@@ -1,0 +1,14 @@
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\bin\Debug\FacturaElectronica.Business.dll
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\bin\Debug\FacturaElectronica.Business.pdb
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\bin\Debug\FacturaElectronica.DataAccess.dll
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\bin\Debug\FacturaElectronica.Model.dll
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\bin\Debug\EntityFramework.dll
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\bin\Debug\FacturaElectronica.DataAccess.pdb
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\bin\Debug\FacturaElectronica.DataAccess.dll.config
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\bin\Debug\FacturaElectronica.Model.pdb
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\bin\Debug\EntityFramework.xml
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\obj\Debug\FacturaElectronica.Business.csprojAssemblyReference.cache
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\obj\Debug\FacturaElectronica.Business.csproj.CoreCompileInputs.cache
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\obj\Debug\FacturaElectronica.Business.csproj.CopyComplete
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\obj\Debug\FacturaElectronica.Business.dll
+C:\Users\coope\source\repos\FacturaElectronica\FacturaElectronica.Business\obj\Debug\FacturaElectronica.Business.pdb
